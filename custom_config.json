@@ -1,0 +1,17 @@
+{
+  "username": "yourGitHubUsername",
+  "badges": [
+    {
+      "title": "GitHub Stars",
+      "count": "100+"
+    },
+    {
+      "title": "GitHub Followers",
+      "count": "500+"
+    },
+    {
+      "title": "GitHub Contributions",
+      "count": "1000+"
+    }
+  ]
+}
